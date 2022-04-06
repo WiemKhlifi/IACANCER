@@ -1,5 +1,5 @@
 # IACANCER
-un site web qui a classifier des images des organes et la detection de types de cancer
+a website that classifies images of organs and the detection of cancer types.
 
 
 create a folder called models if not exists and place the models there
