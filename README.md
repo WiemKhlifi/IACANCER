@@ -1,4 +1,4 @@
-# IACANCER
+# Skin Cancer
 a website that classifies images of organs and the detection of cancer types.
 
 
