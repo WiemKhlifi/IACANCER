@@ -1,5 +1,5 @@
 # Skin Cancer
-a website that classifies images of organs and the detection of cancer types.
+Multi-Class classification model that classifies images of organs and the detect the cancer types.
 
 
 create a folder called models if not exists and place the models there
